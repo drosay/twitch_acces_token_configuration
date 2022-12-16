@@ -5,9 +5,10 @@ const morgan = require('morgan')
 const routes = require('./routes/index.js')
 
 const app = express()
+const PORT = 3500
 
 //configurations
-app.set('port', 3500 || process.env.PORT)
+app.set('port', process.env.PORT || PORT )
 app.set('json spaces',2)
 
 //middlewares
