@@ -1,4 +1,4 @@
-#server to serve (: the token configuration to landy_games
+# server to serve (: the token configuration to landy_games
 
 /conf/keys.js is a file needed to work with the next configuration:
 
