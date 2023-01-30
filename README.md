@@ -13,8 +13,3 @@ token_configuration = {
 module.exports = {
     token_configuration
 }
-<<<<<<< HEAD
-```
-=======
-```
->>>>>>> ed1e063e9be4af6f3c3466565bec4eb954c7d1d6
